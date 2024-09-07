@@ -23,8 +23,6 @@
 </p>
 
 
-![logo-login](https://github.com/user-attachments/assets/effcd526-06d0-4f17-a197-4669e7eb9dfc)
-
 
 
 我们是LLMQuant社区下的QuantPedia团队，我们搜集了国内外量化最新知识，包括金融术语，量化术语，量化策略代码 同时我们提供高质量面试练习题与答案，来自或改编自国内外顶级对冲基金与投资银行 为了正确利用我们的日更的面试真题与练习题，用户只能通过基于ChatGPT的AI聊天机器人获取，我们同时提供业内人士一对一求职辅导服务。
