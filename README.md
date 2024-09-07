@@ -1,25 +1,29 @@
 # 量化百科 QuantPedia
 基于AI的量化百科，通过聊天学习量化知识与最新面试真题。
 <p align="center">
-  <a href="https://pedia.llmquant.com/">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; font-size: 16px; display: block; margin: 10px auto;">
+  <a href="https://pedia.llmquant.com/" style="text-decoration:none;">
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px 0; display: inline-block;">
       查看量化文档！
     </button>
   </a>
-  
-  <a href="https://quantpedia.ai" target="_blank">
-    <button style="padding: 10px 20px; background-color: #008CBA; color: white; border: none; border-radius: 5px; font-size: 16px; display: block; margin: 10px auto;">
+</p>
+
+<p align="center">
+  <a href="https://quantpedia.ai" target="_blank" style="text-decoration:none;">
+    <button style="padding: 10px 20px; background-color: #008CBA; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px 0; display: inline-block;">
       AI聊天机器人！
     </button>
   </a>
+</p>
 
-  
-  <a href="mailto:info@llmquant.com" target="_blank">
-    <button style="padding: 10px 20px; background-color: #f44336; color: white; border: none; border-radius: 5px; font-size: 16px; display: block; margin: 10px auto;">
+<p align="center">
+  <a href="mailto:info@llmquant.com" target="_blank" style="text-decoration:none;">
+    <button style="padding: 10px 20px; background-color: #f44336; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px 0; display: inline-block;">
       一对一求职辅导！
     </button>
   </a>
 </p>
+
 
 
 我们是LLMQuant社区下的QuantPedia团队，我们搜集了国内外量化最新知识，包括金融术语，量化术语，量化策略代码 同时我们提供高质量面试练习题与答案，来自或改编自国内外顶级对冲基金与投资银行 为了正确利用我们的日更的面试真题与练习题，用户只能通过基于ChatGPT的AI聊天机器人获取，我们同时提供业内人士一对一求职辅导服务。
