@@ -11,7 +11,7 @@
     </button>
   </a>
   <a href="https://quantpedia.ai" target="_blank" style="text-decoration:none;">
-    <button style="padding: 10px 20px; background-color: #008CBA; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px; display: inline-block;">
+    <button style="padding: 10px 20px; background-color: #FF9800; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px; display: inline-block;">
       AI聊天机器人！
     </button>
   </a>
@@ -21,6 +21,7 @@
     </button>
   </a>
 </p>
+
 
 
 
