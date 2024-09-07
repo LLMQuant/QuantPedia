@@ -1,7 +1,7 @@
 # 量化百科 QuantPedia
 基于AI的量化百科，通过聊天学习量化知识与最新面试真题。
 <p align="center">
-  <a href="/docs/intro">
+  <a href="https://pedia.llmquant.com/">
     <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; font-size: 16px; display: block; margin: 10px auto;">
       查看量化文档！
     </button>
