@@ -1,28 +1,27 @@
 # 量化百科 QuantPedia
 基于AI的量化百科，通过聊天学习量化知识与最新面试真题。
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/4adbf2de-51f8-49dc-96d1-71c06ac1fa45" width="600" />
+</p>
+
+<p align="center">
   <a href="https://pedia.llmquant.com/" style="text-decoration:none;">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px 0; display: inline-block;">
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px; display: inline-block;">
       查看量化文档！
     </button>
   </a>
-</p>
-
-<p align="center">
   <a href="https://quantpedia.ai" target="_blank" style="text-decoration:none;">
-    <button style="padding: 10px 20px; background-color: #008CBA; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px 0; display: inline-block;">
+    <button style="padding: 10px 20px; background-color: #008CBA; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px; display: inline-block;">
       AI聊天机器人！
     </button>
   </a>
-</p>
-
-<p align="center">
   <a href="mailto:info@llmquant.com" target="_blank" style="text-decoration:none;">
-    <button style="padding: 10px 20px; background-color: #f44336; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px 0; display: inline-block;">
+    <button style="padding: 10px 20px; background-color: #f44336; color: white; border: none; border-radius: 5px; font-size: 16px; margin: 10px; display: inline-block;">
       一对一求职辅导！
     </button>
   </a>
 </p>
+
 
 
 
