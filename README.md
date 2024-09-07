@@ -6,11 +6,14 @@
       查看量化文档！
     </button>
   </a>
+  
   <a href="https://quantpedia.ai" target="_blank">
     <button style="padding: 10px 20px; background-color: #008CBA; color: white; border: none; border-radius: 5px; font-size: 16px; display: block; margin: 10px auto;">
       AI聊天机器人！
     </button>
   </a>
+
+  
   <a href="mailto:info@llmquant.com" target="_blank">
     <button style="padding: 10px 20px; background-color: #f44336; color: white; border: none; border-radius: 5px; font-size: 16px; display: block; margin: 10px auto;">
       一对一求职辅导！
