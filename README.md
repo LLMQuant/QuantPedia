@@ -23,7 +23,6 @@
 </p>
 
 
-![logo](https://github.com/user-attachments/assets/14f30c8e-9222-41eb-964c-19ae91ce5a10)
 
 
 
